@@ -1,5 +1,6 @@
 #!/bin/bash
 Log_dir="/var/log"
+echo "Test log in $Log_dir"
 report_file=/tmp/log_report.txt
 error="(error|ERROR|Error|warning|Warning|WARNING)"
 
